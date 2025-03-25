@@ -123,4 +123,4 @@ MIT — free for personal and commercial use. Attribution appreciated.
 
 ## 🙌 Credits
 
-Built with ❤️ by [Mohammad](https://github.com/MohammadNasrallahBlank)
+Built with ❤️ by [Mohamad](https://github.com/MohammadNasrallahBlank)
