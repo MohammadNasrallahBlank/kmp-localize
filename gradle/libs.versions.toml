@@ -1,0 +1,16 @@
+[versions]
+
+kotlin = "2.1.0"
+compose = "1.7.3"
+compose-multiplatform = "1.8.0-alpha02"
+
+
+[libraries]
+compose-web-core = { module = "org.jetbrains.compose.web:web-core", version.ref = "compose" }
+compose-runtime = { module = "org.jetbrains.compose.runtime:runtime", version.ref = "compose" }
+
+[plugins]
+
+composeMultiplatform = { id = "org.jetbrains.compose", version.ref = "compose-multiplatform" }
+composeCompiler = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
+kotlinMultiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
