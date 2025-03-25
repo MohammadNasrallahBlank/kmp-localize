@@ -24,7 +24,7 @@ dependencyResolutionManagement {
 
 ```kotlin
 dependencies {
-    implementation("io.blankonline.moe:kmp-localize:1.0.0")
+    implementation("io.blankonline.moe:kmp-localize:<version>")
 }
 ```
 
