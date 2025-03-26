@@ -3,6 +3,7 @@
 **KMP Localize** is a lightweight and developer-friendly localization library built specifically for **Jetpack Compose for Web (WASM)**. It provides a simple `t("key")` API and supports runtime locale switching using idiomatic Compose tools like `CompositionLocal`.
 
 🚀 Optimized for Kotlin Multiplatform (WASM) — not intended for Android or JVM.
+Note: Works up until compose-multiplatform = "1.8.0-alpha02"
 
 ---
 
